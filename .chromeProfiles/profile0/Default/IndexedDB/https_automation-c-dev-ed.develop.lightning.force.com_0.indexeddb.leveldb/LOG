@@ -1,0 +1,9 @@
+2023/12/14-14:34:31.864 4ffc Creating DB E:\PRPSP\.chromeProfiles\profile0\Default\IndexedDB\https_automation-c-dev-ed.develop.lightning.force.com_0.indexeddb.leveldb since it was missing.
+2023/12/14-14:34:31.877 4ffc Reusing MANIFEST E:\PRPSP\.chromeProfiles\profile0\Default\IndexedDB\https_automation-c-dev-ed.develop.lightning.force.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/14-14:34:34.026 4f74 Level-0 table #5: started
+2023/12/14-14:34:34.029 4f74 Level-0 table #5: 11637 bytes OK
+2023/12/14-14:34:34.033 4f74 Delete type=0 #3
+2023/12/14-14:34:34.033 4ffc Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/12/14-14:36:08.487 5878 Level-0 table #7: started
+2023/12/14-14:36:08.532 5878 Level-0 table #7: 2065125 bytes OK
+2023/12/14-14:36:08.536 5878 Delete type=0 #4
